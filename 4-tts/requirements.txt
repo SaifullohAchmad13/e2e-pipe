@@ -1,0 +1,10 @@
+# Run on python 3.11
+fastapi==0.116.1
+uvicorn==0.35.0
+python-dotenv==1.1.1
+torch==2.7.1
+torchaudio==2.7.1
+numpy==1.26.4
+pydantic==2.10.6
+f5-tts==1.1.7
+huggingface_hub[cli]
